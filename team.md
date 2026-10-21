@@ -1,16 +1,16 @@
-\# Team Profile 
+\# Team Profile
 
 \## Members
 
-\-Student A: FULL NAME - USERNAME - homepage
+\-Student A: Beboy Tereso - beboy-123 - homepage
 
-\-Student B: FULL NAME - USERNAME - team profile
+\-Student B: Deon Raphael Palma - palmadeonyyy - team profile
 
-\-Student C: FULL NAME - USERNAME - setup note
+\-Student C: Jean Ronel Nejas - jeanronel-92425 - setup note
 
-\-Student D: FULL NAME - USERNAME - workflow guide
+\-Student D: Jhane Yen Agudilla - USERNAME - workflow guide
 
-\-Student E: FULL NAME - USERNAME - testing
+\-Student E: Mathew Legria - USERNAME - testing
 
 
 
